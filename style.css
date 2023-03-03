@@ -830,6 +830,18 @@ img {
   .home {
     padding: 4rem 0 2rem;
   }
+  .nav__link {
+    position: relative;
+    color: #fff;
+    font-size: 1.53rem;
+  }
+  .nav__logo {
+    color: var(--second-color);
+    font-size: 1.5rem;
+  }
+  li {
+    font-size: 23.3px;
+}
   .home__social {
     padding-top: 0;
     padding-bottom: 2.5rem;
